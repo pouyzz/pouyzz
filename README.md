@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @pouyzz
 - 👀 I’m interested in Data and BI analytics
 - 🌱 I’m currently learning SQL, Python, Power BI, and Tableau
-- 💞️ I’m looking to collaborate on Data analysis projects
+- 💞️ I’m looking to collaborate on Data analytics projects
 - 📫 My email: taheripouya@gmail.com
 
 <!---
